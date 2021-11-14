@@ -6,4 +6,4 @@
 
 
 Best way to reach me is in discord
-Discord: Jokex#0420
+Discord: Jokex#2754
