@@ -1,8 +1,8 @@
 👋 Welcome!
 
-🚀 Currently trying to build FiveM server completely by my own. 
+🚀 Currently learning Blender
 
-⚡️ B
+⚡️ building sometimes FiveM server completely by my own. ( Started 12.4.2021)
 
-Best way to reach me is in discord
+For any inquries
 Discord: Jokex#8475
