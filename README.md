@@ -1,9 +1,5 @@
 👋 Welcome!
 
- 🥶 Fella from Finland 
-
-🚀 Currently learning stuff
-
 ⚡️ building sometimes FiveM server completely by my own. ( Started 12.4.2021)
 
 Knowledge
@@ -14,8 +10,7 @@ Knowledge
 - Python
 - Lua
 - VEGAS
-- Pixlr
 - Adobe After Effects
 
-For any inquries
-Discord: Jokex#8475
+For any inquries ( Scripts which are previewed in some of my videos can be obtained my messaging me. )
+Discord: " jokex " 
