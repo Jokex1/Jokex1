@@ -12,5 +12,5 @@ Knowledge
 - VEGAS
 - Adobe After Effects
 
-For any inquries ( Scripts which are previewed in some of my videos can be obtained my messaging me. )
+For any inquries
 Discord: " jokex " 
